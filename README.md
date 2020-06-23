@@ -2,8 +2,10 @@
 
 前端刷leecode
 
-[simple-1](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/1.md)
+[两数之和](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/1.md)
 
-[simple-7](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/7.md)
+[整数反转](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/7.md)
 
-[simple-9](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/9.md)
+[回文数](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/9.md)
+
+[罗马数字转整数](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/9.md)
