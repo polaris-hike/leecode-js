@@ -11,3 +11,5 @@
 [罗马数字转整数](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/9.md)
 
 [最长公共前缀](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/14.md)
+
+[有效的括号](https://github.com/wuxuweilalala/leecode-js/blob/master/simple/20.md)
